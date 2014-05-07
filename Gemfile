@@ -5,6 +5,9 @@ ruby '2.1.0'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.2'
 
+gem 'bootstrap-sass', '2.3.2.0'
+gem 'sprockets', '2.11.0'
+
 # Use PostgreSQL
 gem 'pg', '0.15.1'
 
